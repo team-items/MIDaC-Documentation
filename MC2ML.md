@@ -1,5 +1,5 @@
 #MC2ML 
-MC2ML is the __M__ission__C__ontrol __C__ontroller __M__arkup __L__anguage, an XML based language designed to make it as easy as possible to customize the data accessed and the actuators controlled by a MissionControl server as well as making it more simple to add support to new robotics controllers. An MC2ML file is converted into an C file and then automatically compiled using GCC with the options specified by you.
+MC2ML is the MissionControl Controller Markup Language, an XML based language designed to make it as easy as possible to customize the data accessed and the actuators controlled by a MissionControl server as well as making it more simple to add support to new robotics controllers. An MC2ML file is converted into an C file and then automatically compiled using GCC with the options specified by you.
 
 ##Structure
 MC2MLs root element is the controller tag. The structure of a MC2ML file should be like this:
